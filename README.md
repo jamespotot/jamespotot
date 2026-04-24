@@ -2,7 +2,7 @@
 
 # Hi, I'm James 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=2F81F7&center=true&vCenter=true&width=500&lines=Web+Designer+%26+Developer;Computer+Engineering+Student;Building+Modern+Digital+Experiences)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Aspiring+Web+Designer+%26+Developer;BS+Computer+Engineering+Student;Building+Modern+Web+Experiences)](https://git.io/typing-svg)
 
 ---
 
@@ -24,5 +24,9 @@ Exploring software engineering, machine learning, and IoT.
 ![ML](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![CV](https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![IoT](https://img.shields.io/badge/IoT-00979D?style=flat&logo=arduino&logoColor=white)
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2F81F7&height=100&section=footer"/>
 
 </div>
