@@ -1,10 +1,8 @@
 <div align="center">
 
-Hi, I'm James 👋
+## Hi, I'm James 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Aspiring+Web+Designer+%26+Developer;BS+Computer+Engineering+Student;Building+Modern+Web+Experiences)](https://git.io/typing-svg)
-
----
 
 Building modern web experiences with clean code and thoughtful design.  
 Exploring software engineering, machine learning, and IoT.
