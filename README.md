@@ -23,8 +23,6 @@ Exploring software engineering, machine learning, and IoT.
 ![Computer Vision](https://img.shields.io/badge/CV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![IoT](https://img.shields.io/badge/IoT-00979D?style=flat-square&logo=arduino&logoColor=white)
 
----
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=2F81F7&height=100&section=footer"/>
 
 </div>
