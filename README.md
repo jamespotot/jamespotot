@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2F81F7&height=80&section=header&text=James&fontSize=22&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2F81F7&height=80&section=header&text=&fontSize=22&fontColor=ffffff"/>
 
 ### Hi, I'm James 👋
 
