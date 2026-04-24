@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm James 👋
+Hi, I'm James 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Aspiring+Web+Designer+%26+Developer;BS+Computer+Engineering+Student;Building+Modern+Web+Experiences)](https://git.io/typing-svg)
 
@@ -11,7 +11,7 @@ Exploring software engineering, machine learning, and IoT.
 
 ---
 
-# 💻 Web | 🎨 Design | 🛠 Tech | 🤖 AI & Systems  
+💻 Web | 🎨 Design | 🛠 Tech | 🤖 AI & Systems  
 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
